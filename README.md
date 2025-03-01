@@ -4,7 +4,7 @@ Ask for API KEY from the team, or generate your own on : https://openrouter.ai/d
 Put the apikey in "apikey.py" file (insert the key in between the inverted commas)
 Run the project : ->open the directory where your file is stored
                   ->open the terimnal in that directory
-                  ->type "streamlit run <filename>.py" (include extension also)
+                  ->type "streamlit run filename.py" (include extension also)
 
 About the project : 
 
