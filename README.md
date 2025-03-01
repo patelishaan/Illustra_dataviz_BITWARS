@@ -1,5 +1,5 @@
 # Illustra_dataviz
- Final Submission for BITWARS hackathon
+ Final Submission for BITWARS hackathon (won 3rd place)
 Ask for API KEY from the team, or generate your own on : https://openrouter.ai/deepseek/deepseek-r1-distill-llama-70b:free
 Put the apikey in "apikey.py" file (insert the key in between the inverted commas)
 Run the project : ->open the directory where your file is stored
